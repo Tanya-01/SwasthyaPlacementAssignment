@@ -1,16 +1,18 @@
+Tanya Thakur
+Pune Institute of Computer Technology
+Flutter Assignment Submission for Swasthya AI 
+Fulltime Frontend Developer role
+
 # user_create_profile
+Application featuring user profile creation form with the following fields:
 
-A new Flutter application.
+a.	First Name 
+b.	Last Name 
+c.	Date of Birth 
+d.	Gender 
+e.	Pincode 
+f.	Emergency contact number 
+g.	Blood group 
+h.	Allergies 
+i.	Co-morbidities 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
