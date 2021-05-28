@@ -1,18 +1,18 @@
-Tanya Thakur
-Pune Institute of Computer Technology
-Flutter Assignment Submission for Swasthya AI 
-Fulltime Frontend Developer role
+Tanya Thakur<br>
+Pune Institute of Computer Technology<br>
+Flutter Assignment Submission for Swasthya AI <br>
+Fulltime Frontend Developer role<br>
 
-# user_create_profile
-Application featuring user profile creation form with the following fields:
+# user_create_profile<br>
+Application featuring user profile creation form with the following fields:<br>
 
-a.	First Name 
-b.	Last Name 
-c.	Date of Birth 
-d.	Gender 
-e.	Pincode 
-f.	Emergency contact number 
-g.	Blood group 
-h.	Allergies 
+a.	First Name <br>
+b.	Last Name <br>
+c.	Date of Birth <br>
+d.	Gender <br>
+e.	Pincode <br>
+f.	Emergency contact number <br>
+g.	Blood group <br>
+h.	Allergies <br>
 i.	Co-morbidities 
 
